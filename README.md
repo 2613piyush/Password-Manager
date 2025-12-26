@@ -17,16 +17,16 @@ Currently, the application uses an *H2 in-memory database*, which means the data
 * Easy to extend and customize
 
 ## Project Structure
-Password-Manager
-├── src
-│   ├── main
-│   │   ├── java
+📦 Password-Manager
+├── 📁 src
+│   ├── 📁 main
+│   │   ├── 📁 java
 │   │   │   └── (Spring Boot backend packages)
-│   │   └── resources
+│   │   └── 📁 resources
 │   │       └── application.properties
-│   └── test
+│   └── 📁 test
 │       └── (Test classes)
-├── target
+├── 📁 target
 │   └── (Generated build files)
 ├── README.md
 ├── pom.xml
